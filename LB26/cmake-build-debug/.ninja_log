@@ -1,0 +1,5 @@
+# ninja log v6
+2	646	7712024607229926	CMakeFiles/LB26.dir/main.cpp.obj	95d84c5b3e20eab
+18	661	7712024607400455	CMakeFiles/LB26.dir/IPAddress.cpp.obj	7f5cb069a786c317
+26	675	7712024607469649	CMakeFiles/LB26.dir/IPAddressChecked.cpp.obj	89b87ec4a94b9d4e
+675	812	7712024613965675	LB26.exe	68f0ed2161b9fa9c
